@@ -50,8 +50,8 @@ Feel free to reach out — I'm open to exciting opportunities and collaborations
 
 - **Email:** [neizvel55@gmail.com](mailto:neizvel55@gmail.com)  
 - **Phone:** +7 (700) 1166929  
-- **LinkedIn:** [linkedin.com/in/ваш-username](https://linkedin.com/in/adil-shakayev-222a9b12a)  
-- **GitHub:** [github.com/ваш-username](https://github.com/neizvel)
+- **LinkedIn:** [linkedin.com/in/adil-shakayev-222a9b12a](https://linkedin.com/in/adil-shakayev-222a9b12a)  
+- **GitHub:** [github.com/neizvel](https://github.com/neizvel)
 
 ---
 
