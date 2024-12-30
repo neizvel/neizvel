@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Photo" style="border-radius: 50%;">
-  <h1>👋 Hello, I'm Adil Shakaev</h1>
+  <h1>👋 Hello, I'm Adil Shakayev</h1>
   <p>🌟 IT Professional | 🌐 Tech Leader | 🚀 Innovator</p>
   <p>
     <a href="mailto:neizvel55@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/ваш-username"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/ваш-username"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="https://linkedin.com/in/adil-shakayev-222a9b12a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/neizvel"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
   </p>
 </div>
 
@@ -41,7 +40,7 @@ Led the development of a mobile application to enhance customer engagement and s
 ### 🏦 **Banking Information Systems**
 Built a primary banking front-end system for seamless customer experience.
 
-[See More Projects](https://github.com/ваш-username)
+[See More Projects](https://github.com/neizvel)
 
 ---
 
@@ -51,8 +50,8 @@ Feel free to reach out — I'm open to exciting opportunities and collaborations
 
 - **Email:** [neizvel55@gmail.com](mailto:neizvel55@gmail.com)  
 - **Phone:** +7 (700) 1166929  
-- **LinkedIn:** [linkedin.com/in/ваш-username](https://linkedin.com/in/ваш-username)  
-- **GitHub:** [github.com/ваш-username](https://github.com/ваш-username)
+- **LinkedIn:** [linkedin.com/in/ваш-username](https://linkedin.com/in/adil-shakayev-222a9b12a)  
+- **GitHub:** [github.com/ваш-username](https://github.com/neizvel)
 
 ---
 
