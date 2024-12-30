@@ -40,7 +40,7 @@ Led the development of a mobile application to enhance customer engagement and s
 ### 🏦 **Banking Information Systems**
 Built a primary banking front-end system for seamless customer experience.
 
-[See More Projects](https://github.com/neizvel)
+[See More Info on HeadHunter](https://hh.kz/resume/faad90b7ff092d35220039ed1f37775466347a)
 
 ---
 
@@ -50,8 +50,7 @@ Feel free to reach out — I'm open to exciting opportunities and collaborations
 
 - **Email:** [neizvel55@gmail.com](mailto:neizvel55@gmail.com)  
 - **Phone:** +7 (700) 1166929  
-- **LinkedIn:** [linkedin.com/in/adil-shakayev-222a9b12a](https://linkedin.com/in/adil-shakayev-222a9b12a)  
-- **GitHub:** [github.com/neizvel](https://github.com/neizvel)
+- **LinkedIn:** [linkedin.com/in/adil-shakayev-222a9b12a](https://linkedin.com/in/adil-shakayev-222a9b12a)
 
 ---
 
