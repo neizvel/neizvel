@@ -21,7 +21,7 @@ I am a passionate IT professional with over 6 years of experience in technology 
 
 ---
 
-## 🏆 Achievements
+## 🏆 Early Achievements
 
 - 🥇 **1st Place in "Infomatrix-2016"** Robotics Competition  
 - 🌍 **Team Leader for EXPO-2017 Volunteer Team**  
