@@ -4,7 +4,6 @@
   <p>
     <a href="mailto:neizvel55@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="https://linkedin.com/in/adil-shakayev-222a9b12a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/neizvel"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
   </p>
 </div>
 
@@ -12,12 +11,13 @@
 
 ## 🌟 About Me
 
-I am a passionate IT professional with over 6 years of experience in technology leadership, software development, and project management. I specialize in crafting scalable, efficient solutions that drive business success.
+I am a passionate IT professional with over 7 years of experience in technology leadership, software development, and project management. I specialize in crafting scalable, efficient solutions that drive business success.
 
 ### 🚀 Highlights
 - **Leadership:** Successfully led cross-functional teams to deliver high-impact projects.
 - **Innovation:** Automated workflows and developed cutting-edge web and mobile applications.
-- **Technical Expertise:** Proficient in modern tech stacks, including React, Node.js, MongoDB, and Flutter.
+- **Technical Expertise:** Proficient in modern tech stacks like: React, Next, Express, Nest, MySQL, MongoDB, React Native.
+- **Also my tech stacks:** PHP, Python, GraphQL, PostgreSQL, Firebase, Flutter. And I encountered a technical stack at work: Java, Unity3D, C#, CRM Creatio, Corezoid, Camunda
 
 ---
 
@@ -32,13 +32,13 @@ I am a passionate IT professional with over 6 years of experience in technology 
 ## 💼 Projects
 
 ### 🌐 **Corporate Website Ecosystem**
-Developed and managed a network of corporate websites for brands like Samsung, Bosch, and SonyCentre.
+Developed and managed a network of corporate websites for companies: [Jusan Bank](https://jusan.kz), [Evrika](https://evrika.com), [Samsung by Evrika](https://smbrand.kz),[BoschCenter by Evrika](https://boschcenter.kz), [SonyCentre by Evrika](https://sonycenter.kz) and [Samsung Innovation Campus by Samsung Kazakhstan](https://samsung-campus.kz/ru).
 
 ### 📱 **Mobile Application Development**
 Led the development of a mobile application to enhance customer engagement and streamline workflows.
 
 ### 🏦 **Banking Information Systems**
-Built a primary banking front-end system for seamless customer experience.
+Built a primary banking front-end system for seamless customer experience .Also participated in development of internal services.
 
 [See More Info on HeadHunter](https://hh.kz/resume/faad90b7ff092d35220039ed1f37775466347a)
 
