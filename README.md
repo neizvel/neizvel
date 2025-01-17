@@ -16,8 +16,8 @@ I am a passionate IT professional with over 7 years of experience in technology 
 ### 🚀 Highlights
 - **Leadership:** Successfully led cross-functional teams to deliver high-impact projects.
 - **Innovation:** Automated workflows and developed cutting-edge web and mobile applications.
-- **Technical Expertise:** Proficient in modern tech stacks like: React, Next, Express, Nest, MySQL, MongoDB, React Native.
-- **Also my tech stacks:** PHP, Python, GraphQL, PostgreSQL, Firebase, Flutter. And I encountered a technical stack at work: Java, Unity3D, C#, CRM Creatio, Corezoid, Camunda
+- **Technical Expertise:** Proficient in modern tech stacks like: **React**, **Next**, **Express**, **Nest**, **MySQL**, **MongoDB**, **React Native**.
+- **Also my tech stacks:** **PHP**, **Python**, **GraphQL**, **PostgreSQL**, **Firebase**, **Flutter**. And I encountered a technical stack at work: **Java**, **Unity3D**, **C#**, **CRM Creatio**, **BPM Corezoid**, **BPM Camunda**
 
 ---
 
@@ -32,7 +32,7 @@ I am a passionate IT professional with over 7 years of experience in technology 
 ## 💼 Projects
 
 ### 🌐 **Corporate Website Ecosystem**
-Developed and managed a network of corporate websites for companies: [Jusan Bank](https://jusan.kz), [Evrika](https://evrika.com), [Samsung by Evrika](https://smbrand.kz),[BoschCenter by Evrika](https://boschcenter.kz), [SonyCentre by Evrika](https://sonycenter.kz) and [Samsung Innovation Campus by Samsung Kazakhstan](https://samsung-campus.kz/ru).
+Developed and managed a network of corporate websites for companies: [Jusan Bank](https://jusan.kz), [Evrika](https://evrika.com), [Samsung](https://smbrand.kz) by Evrika, [BoschCenter](https://boschcenter.kz) by Evrika, [SonyCentre](https://sonycenter.kz) by Evrika and [Samsung Innovation Campus](https://samsung-campus.kz/ru) by Samsung Kazakhstan.
 
 ### 📱 **Mobile Application Development**
 Led the development of a mobile application to enhance customer engagement and streamline workflows.
